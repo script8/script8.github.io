@@ -1,3 +1,3 @@
-# script8.github.io
+# DEPRECATED
 
-### This is script8
+Please visit https://github.com/script-8/script-8.github.io instead

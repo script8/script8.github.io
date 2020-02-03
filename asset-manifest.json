@@ -1,13 +1,13 @@
 {
   "main.css": "https://script8.github.io/static/css/main.538d93eb.chunk.css",
-  "main.js": "https://script8.github.io/static/js/main.2125bb6f.chunk.js",
-  "main.js.map": "https://script8.github.io/static/js/main.2125bb6f.chunk.js.map",
+  "main.js": "https://script8.github.io/static/js/main.d6fb5b2d.chunk.js",
+  "main.js.map": "https://script8.github.io/static/js/main.d6fb5b2d.chunk.js.map",
   "runtime~main.js": "https://script8.github.io/static/js/runtime~main.f05a3785.js",
   "runtime~main.js.map": "https://script8.github.io/static/js/runtime~main.f05a3785.js.map",
   "static/js/2.c9fb5cd8.chunk.js": "https://script8.github.io/static/js/2.c9fb5cd8.chunk.js",
   "static/js/2.c9fb5cd8.chunk.js.map": "https://script8.github.io/static/js/2.c9fb5cd8.chunk.js.map",
   "index.html": "https://script8.github.io/index.html",
-  "precache-manifest.6af940035044f2bb4bd410b25b968016.js": "https://script8.github.io/precache-manifest.6af940035044f2bb4bd410b25b968016.js",
+  "precache-manifest.6e6b00e1cdf45df18b3bc81c0475c946.js": "https://script8.github.io/precache-manifest.6e6b00e1cdf45df18b3bc81c0475c946.js",
   "service-worker.js": "https://script8.github.io/service-worker.js",
   "static/css/main.538d93eb.chunk.css.map": "https://script8.github.io/static/css/main.538d93eb.chunk.css.map",
   "static/media/Iframe.css": "https://script8.github.io/static/media/VT323-latin.e3552630.woff2"
